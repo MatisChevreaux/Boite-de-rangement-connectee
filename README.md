@@ -40,7 +40,7 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 
 5eme étape: Rentrer le code dans la carte Arduino (Regarder le code associer "Final.ino").
 
-6eme étape: Créer un loquet en plastique grâce a une imprimante 3D et le cliper sur le moteur (Regarder le dossier associer "Final.ino").
+6eme étape: Choisir et créer un loquet en plastique grâce a une imprimante 3D et le cliper sur le moteur (Regarder un dossier associer "Loquet.stl").
 
 
 
