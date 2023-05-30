@@ -31,9 +31,11 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 # Création coter électronique:
 # Banchements électronique:
 
-Premièrement: Souder la broche et la carte RFID RC522 entre elles (étape obligatoire).
+1ere étape: Souder la broche et la carte RFID RC522 entre elles.
 
-Deuxièmement:
+2eme étape: Plugger la carte RFID au mini breadboard arduino
+
+3eme étape:
 
 
 
