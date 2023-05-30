@@ -70,7 +70,10 @@ Afin de proposer une présentation claire de mon projet j'ai désider d'installe
 Mais j'aurais pu installer les composant dans un double fond afin de les disimuler.
 
 Pour fixer chaque composant sur la boîte j'ai:
-- ghhhk
+
+- Pour la carte Arduino Uno, visser 4 vis dans le toît.
+
+- Pour le servo-motor,  
 
 
 
