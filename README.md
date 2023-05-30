@@ -61,12 +61,13 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 - Visser les contreplaquer sur les tasseaux, dans un premier temps les coter, sans fixer le plafon ni la porte
 
 4eme étape: Construire la deuxième partie de la boîte :
-- Visser charnière sur la porte puis sous le socle
+- Visser les charnières sur la porte puis sous le socle
 - Visser le plafon sur la boîte
 
+# Assemblage de l'électronique à la boîte:
 
-
-
+Afin de proposer une présentation claire de mon projet j'ai désider d'installer les composant sur le dessus de la boîte.
+Mais j'aurais pu installer les composant dans un double fond afin de les disimuler.
 
 
 
