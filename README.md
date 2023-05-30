@@ -35,7 +35,7 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 
 2eme étape: Plugger la carte RFID au mini breadboard arduino.
 
-3eme étape: Brancher la carte Arduino Uno à la carte RFID (Regarder l'image associer).
+3eme étape: Brancher la carte Arduino Uno à la carte RFID (Regarder l'image associer "Branchement Arduino et RFID RC522").
 
 4eme étape: Brancher le servo-motor à la carte Arduino. (Le marron sur GND; Rouge sur 5V et Orange sur A2).
 
