@@ -44,7 +44,7 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 
 # Création cotée boîtes:
 
-1ere étape: Il faut couper des plaques en bois de différentes tailles dans le contreplaquer 
+1ere étape: Il faut couper des plaques en bois de différentes tailles dans le contreplaquer :
 - 3 plaques de 20x14.5cm
 - 2 plaques de 9x14.5cm
 - 1 plaque de 19x9cm
