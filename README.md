@@ -61,8 +61,8 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 - Visser les contreplaquer sur les tasseaux, dans un premier temps les coter, sans fixer le plafon ni la porte
 
 4eme étape: Construire la deuxième partie de la boîte :
--Visser charnière sur la porte puis sous le socle
--Visser le plafon sur la boîte
+- Visser charnière sur la porte puis sous le socle
+- Visser le plafon sur la boîte
 
 
 
