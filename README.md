@@ -11,7 +11,7 @@ Mon projet est une boîte de rangement sécurisée. Le loquet s'ouvre grâce à 
 
 
 # Fabrication :
-# Composant coté électronique:
+# Composant côté électronique:
 - 1 Carte Arduino Uno
 - 1 Carte RFID RC522
 - 1 broche pour carte RFID RC522
@@ -20,7 +20,7 @@ Mon projet est une boîte de rangement sécurisée. Le loquet s'ouvre grâce à 
 - 1 Mini breadboard arduino
 - 10 cables mâle/mâle
 
-# Matériaux coté boite:
+# Matériaux côté boite:
 - 1 Planche de contreplaqué 1200x600mm de 5mm d'épaisseur
 - 1 Tasseau 15x15mm de 2m de longeur
 - 2 Charnieres 30x30mm
@@ -28,7 +28,7 @@ Mon projet est une boîte de rangement sécurisée. Le loquet s'ouvre grâce à 
 - 2 sachets de 25 vis de 16x3.5mm
 
 
-# Création coté électronique:
+# Création côté électronique:
 
 1ere étape: Souder la broche et la carte RFID RC522 entre elles.
 
@@ -42,7 +42,7 @@ Mon projet est une boîte de rangement sécurisée. Le loquet s'ouvre grâce à 
 
 6eme étape: Choisir et créer un loquet en plastique grâce à une imprimante 3D et le cliper sur le moteur (Regarder un dossier associé "Loquet.stl").
 
-# Création coté boîtes:
+# Création côté boîtes:
 
 1ere étape: Il faut couper des plaques en bois de différentes tailles dans le contreplaqué :
 - 3 plaques de 20x14.5cm
