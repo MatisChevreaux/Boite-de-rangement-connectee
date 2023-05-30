@@ -42,6 +42,6 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 
 6eme étape: Choisir et créer un loquet en plastique grâce a une imprimante 3D et le cliper sur le moteur (Regarder un dossier associer "Loquet.stl").
 
-
+# Création coter boîtes:
 
 
