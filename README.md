@@ -40,7 +40,7 @@ Mon projet est une boîte de rangement sécurisée. Le loquet s'ouvre grâce à 
 
 5eme étape: Rentrer le code dans la carte Arduino (Regarder le code associé "Final.ino").
 
-6eme étape: Choisir et créer un loquet en plastique grâce à une imprimante 3D et le cliper sur le moteur (Regarder un dossier associé "Loquet.stl").
+6eme étape: Choisir et créer un loquet en plastique grâce à une imprimante 3D et le clipper sur le moteur (Regarder un dossier associé "Loquet.stl").
 
 # Création côté boîtes:
 
@@ -58,7 +58,7 @@ Mon projet est une boîte de rangement sécurisée. Le loquet s'ouvre grâce à 
 3eme étape: Construire la premiere partie de la boîte:
 - Visser 2 plaques de 20x14.5cm ensembles (ce sera le socle)
 - Visser sur le socle un cadre fait à partir des tasseaux
-- Visser les contreplaqué sur les tasseaux, dans un premier temps les coté, sans fixer le plafon ni la porte
+- Visser les contreplaqué sur les tasseaux, dans un premier temps les côté, sans fixer le plafon ni la porte
 
 4eme étape: Construire la deuxième partie de la boîte :
 - Visser les charnières sur la porte puis sous le socle
@@ -75,7 +75,7 @@ Pour fixer chaque composant sur la boîte, j'ai:
 
 - Pour le servo-motor, vissé un tasseau de 9cm dans le toit dans lequel le moteur est incrusté avec l'aide de deux petites cales de 3x1cm, en prenant en compte l'espace pour que la porte s'ouvre et se ferme.
 
-- Pour le mini breadboard arduino, vissé de chaque coté des petites plaques en contreplaqué de différentes tailles pour le coincer, puis créé un loquet avec un autre petit morceau de contreplaqué afin de fixer completement l'ensemble à la boîte.
+- Pour le mini breadboard arduino, vissé de chaque côté des petites plaques en contreplaqué de différentes tailles pour le coincer, puis créé un loquet avec un autre petit morceau de contreplaqué afin de fixer completement l'ensemble à la boîte.
 
 # Conclusion:
 
