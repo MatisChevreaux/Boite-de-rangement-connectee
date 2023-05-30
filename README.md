@@ -33,9 +33,9 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 
 1ere étape: Souder la broche et la carte RFID RC522 entre elles.
 
-2eme étape: Plugger la carte RFID au mini breadboard arduino
+2eme étape: Plugger la carte RFID au mini breadboard arduino.
 
-3eme étape:
+3eme étape: Brancher la carte Arduino Uno à la carte RFID.
 
 
 
