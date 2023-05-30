@@ -69,6 +69,17 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 Afin de proposer une présentation claire de mon projet j'ai désider d'installer les composant sur le dessus de la boîte.
 Mais j'aurais pu installer les composant dans un double fond afin de les disimuler.
 
+Pour fixer chaque composant sur la boîte j'ai:
+-evf
+
+
+
+
+
+
+
+
+
 
 
 
