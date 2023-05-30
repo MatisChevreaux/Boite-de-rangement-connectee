@@ -11,7 +11,7 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 
 
 # Fabrication :
-# Composant coter électronnique:
+# Composant cotée électronnique:
 - 1 Carte Arduino Uno
 - 1 Carte RFID RC522
 - 1 broche pour carte RFID RC522
@@ -20,7 +20,7 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 - 1 Mini breadboard arduino
 - 10 cables mâle/mâle
 
-# Matériaux coter boite:
+# Matériaux cotée boite:
 - 1 Planche de contreplaquer 1200x600mm de 5mm d'épesseur
 - 1 Tasseau 15x15mm de 2m de longeur
 - 2 Charniere 30x30mm
@@ -28,7 +28,7 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 - 2 sachet de 25 vis de 16x3.5mm
 
 
-# Création coter électronique:
+# Création cotée électronique:
 
 1ere étape: Souder la broche et la carte RFID RC522 entre elles.
 
@@ -42,6 +42,6 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 
 6eme étape: Choisir et créer un loquet en plastique grâce a une imprimante 3D et le cliper sur le moteur (Regarder un dossier associer "Loquet.stl").
 
-# Création coter boîtes:
+# Création cotée boîtes:
 
 
