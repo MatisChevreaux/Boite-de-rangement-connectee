@@ -44,4 +44,22 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 
 # Création cotée boîtes:
 
+1ere étape: Il faut couper des plaques en bois de différentes tailles dans le contreplaquer :
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
