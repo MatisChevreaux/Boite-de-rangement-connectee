@@ -69,11 +69,13 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 Afin de proposer une présentation claire de mon projet j'ai désider d'installer les composant sur le dessus de la boîte.
 Mais j'aurais pu installer les composant dans un double fond afin de les disimuler.
 
-Pour fixer chaque composant sur la boîte j'ai:
+Pour fixer chaque composant sur la boîte, j'ai:
 
 - Pour la carte Arduino Uno, visser 4 vis dans le toît.
 
-- Pour le servo-motor,  
+- Pour le servo-motor, visser un tasseau de 9cm dans le toit où le moteur est incruster dedans avec l'aide de deux petites cales de 3x1cm.
+
+- Pour le mini breadboard arduino, visser de chaque coter des petites plaques en contreplaquer de différentes tailles pour le coincer, puis créer un loquet avec un autre petit morceau de contreplaquer afin de fixer completement l'ensemble à la boîte.
 
 
 
