@@ -2,7 +2,7 @@
 Ce projet est réalisé dans le cadre du module Communication Sans Fil en Licence 1 à l’Université 
 Côte D'Azur.
 
-L'idée initiale de mon projet était de créer un cadenas connecté mais, j'ai changé ma façon de voir en cours de route afin de créer une boîte de rangement connectée, fonctionnant de la même manière que le cadenas mais en plus appropriée vue la taille des pièces, plus résistante et moins coûteuse. Pour finir la démonstration de mon projet est plus compréhensible, car chaque pièce est visible.
+L'idée initiale de mon projet était de créer un cadenas connecté mais, j'ai changé ma façon de voir en cours de route afin de créer une boîte de rangement connectée, fonctionnant de la même manière que le cadenas mais en plus appropriée vue la taille des pièces, plus résistante et moins coûteuse. Pour finir, la démonstration de mon projet est plus compréhensible car chaque pièce est visible.
 
 
 # Description du projet:
