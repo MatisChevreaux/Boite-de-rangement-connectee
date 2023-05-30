@@ -15,7 +15,7 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 - 1 Carte Arduino Uno
 - 1 Carte RFID RC522
 - 1 broche pour carte RFID RC522
-- 1 Servo-moteur
+- 1 Servo-motor
 - 1 Loquet
 - 1 Mini breadboard arduino
 - 10 cables mâle/mâle
@@ -37,7 +37,9 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 
 3eme étape: Brancher la carte Arduino Uno à la carte RFID (Regarder l'image associer).
 
+4eme étape: Brancher le servo-motor à la carte Arduino. (Le marron sur GND; Rouge sur 5V et Orange sur A2).
 
+5eme étape: Rentrer le code dans la carte Arduino.
 
 
 
