@@ -17,7 +17,10 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 - 1 Mini breadboard arduino
 - 10 cables mâle/mâle
 
-
-
-
+# Matériaux coter boite:
+- 1 Planche de contreplaquer 1200x600mm de 5mm d'épesseur
+- 1 Tasseau 15x15mm de 2m de longeur
+- 2 Charniere 30x30mm
+- 1 sachet de 40 vis de 12x2.5mm
+- 2 sachet de 25 vis de 16x3.5mm
 
