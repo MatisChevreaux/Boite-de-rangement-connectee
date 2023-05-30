@@ -29,19 +29,18 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 
 
 # Création coter électronique:
-# Banchements électronique:
 
 1ere étape: Souder la broche et la carte RFID RC522 entre elles.
 
 2eme étape: Plugger la carte RFID au mini breadboard arduino.
 
-3eme étape: Brancher la carte Arduino Uno à la carte RFID (Regarder l'image associer "Branchement Arduino et RFID RC522").
+3eme étape: Brancher la carte Arduino Uno à la carte RFID (Regarder l'image associer "Branchement Arduino et RFID RC522.png").
 
 4eme étape: Brancher le servo-motor à la carte Arduino. (Le marron sur GND; Rouge sur 5V et Orange sur A2).
 
-5eme étape: Rentrer le code dans la carte Arduino.
+5eme étape: Rentrer le code dans la carte Arduino (Regarder le code associer "Final.ino").
 
-
+6eme étape: Créer un loquet en plastique grâce a une imprimante 3D et le cliper sur le moteur (Regarder le dossier associer "Final.ino").
 
 
 
