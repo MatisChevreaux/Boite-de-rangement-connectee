@@ -73,13 +73,13 @@ Pour fixer chaque composant sur la boîte, j'ai:
 
 - Pour la carte Arduino Uno, visser 4 vis dans le toît.
 
-- Pour le servo-motor, visser un tasseau de 9cm dans le toit où le moteur est incruster dedans avec l'aide de deux petites cales de 3x1cm.
+- Pour le servo-motor, visser un tasseau de 9cm dans le toit où le moteur est incruster dedans avec l'aide de deux petites cales de 3x1cm, en prenant en compte l'espace pour que la porte souvre et ce ferme.
 
 - Pour le mini breadboard arduino, visser de chaque coter des petites plaques en contreplaquer de différentes tailles pour le coincer, puis créer un loquet avec un autre petit morceau de contreplaquer afin de fixer completement l'ensemble à la boîte.
 
 # Conclusion:
 
-
+Mon projet, une fois terminer correspond entièrement à ce que j'avais imaginer et vous pouvez visionner la vidéo de présentation ce nomment "présentation du projet".
 
 
 
