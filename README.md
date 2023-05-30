@@ -77,7 +77,7 @@ Pour fixer chaque composant sur la boîte, j'ai:
 
 - Pour le mini breadboard arduino, visser de chaque coter des petites plaques en contreplaquer de différentes tailles pour le coincer, puis créer un loquet avec un autre petit morceau de contreplaquer afin de fixer completement l'ensemble à la boîte.
 
-
+# Conclusion:
 
 
 
