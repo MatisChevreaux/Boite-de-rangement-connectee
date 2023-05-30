@@ -38,13 +38,13 @@ Mon projet est une boîte de rangement sécurisée. Le loquet s'ouvre grâce à 
 
 4eme étape: Brancher le servo-motor à la carte Arduino. (Le marron sur GND; Rouge sur 5V et Orange sur A2).
 
-5eme étape: Rentrer le code dans la carte Arduino (Regarder le code associer "Final.ino").
+5eme étape: Rentrer le code dans la carte Arduino (Regarder le code associé "Final.ino").
 
-6eme étape: Choisir et créer un loquet en plastique grâce a une imprimante 3D et le cliper sur le moteur (Regarder un dossier associer "Loquet.stl").
+6eme étape: Choisir et créer un loquet en plastique grâce à une imprimante 3D et le cliper sur le moteur (Regarder un dossier associé "Loquet.stl").
 
-# Création cotée boîtes:
+# Création coté boîtes:
 
-1ere étape: Il faut couper des plaques en bois de différentes tailles dans le contreplaquer :
+1ere étape: Il faut couper des plaques en bois de différentes tailles dans le contreplaqué :
 - 3 plaques de 20x14.5cm
 - 2 plaques de 9x14.5cm
 - 1 plaque de 19x9cm
@@ -58,7 +58,7 @@ Mon projet est une boîte de rangement sécurisée. Le loquet s'ouvre grâce à 
 3eme étape: Construire la premiere partie de la boîte:
 - Visser 2 plaques de 20x14.5cm ensembles (ce sera le socle)
 - Visser sur le socle un cadre fait à partir des tasseaux
-- Visser les contreplaquer sur les tasseaux, dans un premier temps les coter, sans fixer le plafon ni la porte
+- Visser les contreplaqué sur les tasseaux, dans un premier temps les coté, sans fixer le plafon ni la porte
 
 4eme étape: Construire la deuxième partie de la boîte :
 - Visser les charnières sur la porte puis sous le socle
@@ -66,20 +66,20 @@ Mon projet est une boîte de rangement sécurisée. Le loquet s'ouvre grâce à 
 
 # Assemblage de l'électronique à la boîte:
 
-Afin de proposer une présentation claire de mon projet j'ai désider d'installer les composant sur le dessus de la boîte.
-Mais j'aurais pu installer les composant dans un double fond afin de les disimuler.
+Afin de proposer une présentation claire de mon projet j'ai décidé d'installer les composants sur le dessus de la boîte.
+Mais j'aurais pu installer les composants dans un double fond afin de les disimuler.
 
 Pour fixer chaque composant sur la boîte, j'ai:
 
-- Pour la carte Arduino Uno, visser 4 vis dans le toît.
+- Pour la carte Arduino Uno, vissé 4 vis dans le toît.
 
-- Pour le servo-motor, visser un tasseau de 9cm dans le toit où le moteur est incruster dedans avec l'aide de deux petites cales de 3x1cm, en prenant en compte l'espace pour que la porte souvre et ce ferme.
+- Pour le servo-motor, vissé un tasseau de 9cm dans le toit dans lequel le moteur est incrusté avec l'aide de deux petites cales de 3x1cm, en prenant en compte l'espace pour que la porte s'ouvre et se ferme.
 
-- Pour le mini breadboard arduino, visser de chaque coter des petites plaques en contreplaquer de différentes tailles pour le coincer, puis créer un loquet avec un autre petit morceau de contreplaquer afin de fixer completement l'ensemble à la boîte.
+- Pour le mini breadboard arduino, vissé de chaque coté des petites plaques en contreplaqué de différentes tailles pour le coincer, puis créé un loquet avec un autre petit morceau de contreplaqué afin de fixer completement l'ensemble à la boîte.
 
 # Conclusion:
 
-Mon projet, une fois terminer correspond entièrement à ce que j'avais imaginer et vous pouvez visionner la vidéo de présentation ce nomment "présentation du projet".
+Mon projet, une fois terminé correspond entièrement à ce que j'avais imaginé et vous pouvez visionner la vidéo de présentation ce nommant "présentation du projet".
 
 
 
