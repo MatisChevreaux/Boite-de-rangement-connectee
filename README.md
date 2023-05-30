@@ -20,7 +20,7 @@ Mon projet est une boîte de rangement sécurisée. Le loquet s'ouvre grâce à 
 - 1 Mini breadboard arduino
 - 10 cables mâle/mâle
 
-# Matériaux côté boite:
+# Matériaux côté boîte:
 - 1 Planche de contreplaqué 1200x600mm de 5mm d'épaisseur
 - 1 Tasseau 15x15mm de 2m de longeur
 - 2 Charnieres 30x30mm
