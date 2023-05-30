@@ -50,8 +50,12 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 - 1 plaque de 19x9cm
 - 1 plaque de 20x10cm
 
+2eme étape: Il faut couper des tasseaux en bois de différentes tailles :
+- 4 tasseaux de 9cm
+- 4 tasseaux de 11.5cm
+- 3 tasseaux de 15.5cm
 
-
+3eme étape: Construire la premiere partie de la boîte:
 
 
 
