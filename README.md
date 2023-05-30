@@ -56,8 +56,13 @@ Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre gr
 - 3 tasseaux de 15.5cm
 
 3eme étape: Construire la premiere partie de la boîte:
+- Visser 2 plaques de 20x14.5cm ensembles (ce sera le socle)
+- Visser sur le socle un cadre fait à partir des tasseaux
+- Visser les contreplaquer sur les tasseaux, dans un premier temps les coter, sans fixer le plafon ni la porte
 
-
+4eme étape: Construire la deuxième partie de la boîte:
+-Visser charnière sur la porte puis sous le socle
+-Visser le plafon
 
 
 
