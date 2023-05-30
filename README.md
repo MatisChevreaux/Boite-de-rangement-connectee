@@ -6,7 +6,8 @@ L'idée initiale de mon projet était de créer un cadenas connecter mais, j'ai 
 
 # Description du projet
 
-Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre grace à un lecteur de carte magnétique. Simplifiant donc l'ouverture manuelle et évite l'utilisation de clefs, ce qui offre la posibiliter d'utiliser plusieurs cartes ayant les mêmes identifiants ce qui réduit les fraits pour les utilisateurs. Ainsi cette boite pourrait être utiliser par des colectiviter dont plusieurs personnes utilisent des cartes magnétique de même identifiants.
+Mon projet est une boîte qui sert de rangement sécuriser, le loquet s'ouvre grâce à un lecteur de carte magnétique. Simplifiant donc l'ouverture manuelle et évite l'utilisation de clefs, ce qui offre la possibilité d'utiliser plusieurs cartes ayant les mêmes identifiants ce qui réduit les frais pour les utilisateurs. Ainsi cette boîte pourrait être utilisée par des colectiviter dont plusieurs personnes utilisent des cartes magnétique de même identifiant.
+
 
 
 
