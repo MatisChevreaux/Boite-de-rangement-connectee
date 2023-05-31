@@ -44,7 +44,7 @@ Mon projet est une boîte de rangement sécurisée. Le loquet s'ouvre grâce à 
 
 # Création côté boîtes:
 
-1ere étape: Il faut couper des plaques en bois de différentes tailles dans le contreplaqué (dans mon cas j'ai utiliser une découpeuse laser pour une découpe de méilleure qualiter, vous pouvez regarder les photos associés "ggggggggggggggggggggg") :
+1ere étape: Il faut couper des plaques en bois de différentes tailles dans le contreplaqué (dans mon cas j'ai utiliser une découpeuse laser pour une découpe de méilleure qualiter, vous pouvez regarder les photos associés "Photos découpe") :
 - 3 plaques de 20x14.5cm
 - 2 plaques de 9x14.5cm
 - 1 plaque de 19x9cm
