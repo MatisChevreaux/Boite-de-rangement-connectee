@@ -79,7 +79,7 @@ Pour fixer chaque composant sur la boîte, j'ai:
 
 # Conclusion:
 
-Mon projet, une fois terminé correspond entièrement à ce que j'avais imaginé et vous pouvez visionner la vidéo de présentation ce nommant "présentation du projet".
+Mon projet, une fois terminé correspond entièrement à ce que j'avais imaginé et vous pouvez visionner la vidéo de présentation ce nommant "Présentation du projet.mp4".
 
 
 
