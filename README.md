@@ -22,8 +22,8 @@ Mon projet est une boîte de rangement sécurisée. Le loquet s'ouvre grâce à 
 
 # Matériaux côté boîte:
 - 1 Planche de contreplaqué 1200x600mm de 5mm d'épaisseur
-- 1 Tasseau 15x15mm de 2m de longeur
-- 2 Charnieres 30x30mm
+- 1 Tasseau 15x15mm de 2m de longueur
+- 2 Charnières 30x30mm
 - 1 sachet de 40 vis de 12x2.5mm
 - 2 sachets de 25 vis de 16x3.5mm
 
